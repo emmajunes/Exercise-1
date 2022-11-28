@@ -22,7 +22,7 @@
                     
             }
 
-            public void Stop()
+            public TimeSpan Stop()
             {
 
                 if (_running)
